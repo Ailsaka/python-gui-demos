@@ -1,2 +1,2 @@
 # python-gui-demos
-from others on network
+from others on internet
